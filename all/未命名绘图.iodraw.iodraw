@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_8xrtIuFNOOIYgKaGZu-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="F_8xrtIuFNOOIYgKaGZu-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="F_8xrtIuFNOOIYgKaGZu-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="157" y="90" as="sourcePoint" />
             <mxPoint x="250" y="120" as="targetPoint" />
@@ -33,8 +33,8 @@
         </mxCell>
         <mxCell id="F_8xrtIuFNOOIYgKaGZu-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="120" as="sourcePoint" />
-            <mxPoint x="440" y="120" as="targetPoint" />
+            <mxPoint x="200" y="90" as="sourcePoint" />
+            <mxPoint x="250" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
